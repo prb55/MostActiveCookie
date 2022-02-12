@@ -1,4 +1,3 @@
-
 public class Cookie {
 
 	private String cookie_id;
